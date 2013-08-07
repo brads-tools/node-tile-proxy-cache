@@ -1,0 +1,13 @@
+{
+  "name": "tile-proxy-cache",
+  "version": "0.1.0",
+  "description": "cache tile maps for leafletjs or other slippy maps",
+  "dependencies": {
+    "node-http-proxy": "0.10.x",
+    "ejs":"*"
+  },
+  "main": "./index.js",
+  "engines": {
+    "node": ">= 0.6.6"
+  }
+}
